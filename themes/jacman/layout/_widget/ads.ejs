@@ -1,0 +1,14 @@
+<div class="adslist">
+  <p class="asidetitle"></p><!--%= __('ads') %-->
+    <ul>
+        <% for (var i in theme.ads){ %>
+          <li>
+            <% if(theme.ads[i].indexOf(",") > 0) { %>
+              <%= i %>:<br/><a href="<%- theme.ads[i].split(",")[1] %>" target="_blank"><img src="<%- config.root %><%= theme.ads[i].split(",")[0] %>" title="<%= i %>"/></a>
+            <% }else{ %>
+              <%= i %>:<br/><img src="<%- config.root %><%= theme.ads[i] %>" title="<%= i %>"/>
+            <% } %>
+          </li>
+        <% } %>
+    </ul>
+</div>
