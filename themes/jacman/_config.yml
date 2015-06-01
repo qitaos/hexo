@@ -41,8 +41,8 @@ theme_color:
 
 #### index post is expanding or not 
 index:
-  expand: false           ## default is unexpanding,so you can only see the short description of each post.
-  excerpt_link: Read More  
+  expand: true           ## default is unexpanding,so you can only see the short description of each post.
+  excerpt_link: 阅读更多
 
 close_aside: false  #close sidebar in post page if true
 mathjax: false      #enable mathjax if true

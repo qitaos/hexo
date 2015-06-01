@@ -1,8 +1,12 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-- 随便写写
+- robotframework
 categories:
-- 随笔
+- 自动化测试
+description:
 
 ---
+
+
+<!-- more -->
