@@ -39,6 +39,10 @@ banner_img: img/banner.jpg #img/banner.jpg ## size:1920px*200px+. Banner Picture
 theme_color:
     theme: '#2ca6cb'    ##the defaut theme color is blue
 
+# 代码高亮主题
+# available: default | night
+highlight_theme: default
+
 #### index post is expanding or not 
 index:
   expand: true           ## default is unexpanding,so you can only see the short description of each post.
@@ -84,6 +88,7 @@ links:
   RF论坛: http://robotframework.net
   郑鸿志的博客: http://www.zhenghongzhi.cn,http://zhenghz.github.io/
   凭海临风: http://jeffsui.github.io/
+  Casa-Taloyum: http://casatwy.com/
 
 #### Ads
 ads:
@@ -102,9 +107,9 @@ jiathis:
 
 #### Analytics
 google_analytics:
-  enable: false
-  id:        ## e.g. UA-46321946-2 your google analytics ID.
-  site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
+  enable: true
+  id:     UA-284545-2   ## e.g. UA-46321946-2 your google analytics ID.
+  site:   qitaos.github.io ## e.g. wuchong.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
