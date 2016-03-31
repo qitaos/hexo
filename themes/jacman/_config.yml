@@ -15,13 +15,16 @@ menu:
 
 #### Widgets
 widgets: 
+- github-card
 - category
 - tag
 - links
 - ads
 - douban
 - rss
-## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
+- weibo
+  ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
+
 
 
 #### RSS 
@@ -60,9 +63,9 @@ author:
   intro_line1:  "Hello, I'm Jacky Qi in PingAn Tech."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog, show me the world."  ## the 2nd line
   weibo: qitaos     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+  weibo_verifier: 012604a5 ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 1281197970    ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
+  douban:  qitaos   ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu: qitaos     ## e.g. jark  for http://www.zhihu.com/people/jark
   email: qitaos@gmail.com     ## e.g. imjark@gmail.com
   twitter: qitaos   ## e.g. jarkwu for https://twitter.com/jarkwu
@@ -139,7 +142,7 @@ baidu_search:     ## http://zn.baidu.com/
   enable: false
   id:   ## e.g. "783281470518440642"  for your baidu search id
   site: #http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
-  
+
 tinysou_search:     ## http://tinysou.com/
   enable: false
   id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
