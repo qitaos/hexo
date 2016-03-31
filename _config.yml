@@ -84,6 +84,14 @@ stylus:
 deploy:
   type: git
   message: "hexo-auto-deploy:{{ now('YYYY-MM-DD HH:mm:ss') }}"
-  repo: git@github.com:qitaos/qitaos.github.io.git
+  repo: 
+    github.com: git@github.com:qitaos/qitaos.github.io.git
+    coding.net: git@git.coding.net:qitaos/qitaos.git
   branche: master
+  
+  #type: git
+  #message: "hexo-auto-deploy:{{ now('YYYY-MM-DD HH:mm:ss') }}"
+  #repo: git@coding.net:qitaos/qitaos.git
+  #branche: coding-pages
+
   	#gitcafe: 
