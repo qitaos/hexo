@@ -87,7 +87,7 @@ deploy:
   repo: 
     github.com: git@github.com:qitaos/qitaos.github.io.git
     coding.net: git@git.coding.net:qitaos/qitaos.git
-    osc.git: git@git.oschina.net:qitaos/qitaos.git
+    #osc.git: git@git.oschina.net:qitaos/qitaos.git
   branch: master
   
   #type: git
