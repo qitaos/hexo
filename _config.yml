@@ -28,6 +28,7 @@ i18n_dir: :lang
 skip_render: 
 - README_zh.md
 - README.md
+- CNAME
 about_dir: about
 
 # Writing

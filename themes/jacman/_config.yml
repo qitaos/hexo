@@ -60,7 +60,7 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "Hello, I'm Jacky Qi in PingAn Tech."    ## your introduction on the bottom of the page
+  intro_line1:  "Hello, I'm Jacky Qi. Robotframework user."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog, show me the world."  ## the 2nd line
   weibo: qitaos     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: 012604a5 ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
@@ -85,6 +85,7 @@ toc:
 
 #### Links
 links:
+  齐涛道长的博客备份: http://qitaos.coding.me/qitaos
   老道长的github: https://github.com/qitaos
   老道长的测试生活: http://blog.csdn.net/tulituqi,道长最初发Robotframework教程的网站
   TesterHome: http://TesterHome.com,移动测试社区，由众多移动测试工作者维护，致力于推进国内测试技术。

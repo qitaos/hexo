@@ -9,10 +9,10 @@ description:
 
 前面该说的都说了，下面开始正式进入基础环境安装指南。
 
-一、适用环境：
+## 一、适用环境：
 Windows系列，32位Python
 
-二、简要步骤：
+## 二、简要步骤：
 1. 安装Python，此处我下载的版本是Python2.7.11.msi
 2. 安装wxPython，此处我下载的版本是wxPython2.8-win32-unicode-2.8.12.1-py27.exe
 3. 使用pip install安装robotframework
@@ -23,7 +23,7 @@ Windows系列，32位Python
 
 <!-- more -->
 
-三、详细步骤：
+## 三、详细步骤：
 
 1. 安装Python
 
