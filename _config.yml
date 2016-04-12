@@ -91,7 +91,7 @@ deploy:
     #osc.git: git@git.oschina.net:qitaos/qitaos.git
   branch: master
   
-  #type: git
+  #type: git t
   #message: "hexo-auto-deploy:{{ now('YYYY-MM-DD HH:mm:ss') }}"
   #repo: git@coding.net:qitaos/qitaos.git
   #branche: coding-pages
