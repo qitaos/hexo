@@ -1,6 +1,7 @@
 title: RF环境安装-windows32位-基础环境-安装指南
 tags:
   - robotframework
+  - windows
 categories:
   - 自动化测试
 date: 2016-03-31 21:00:08
